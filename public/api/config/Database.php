@@ -4,9 +4,9 @@ class Database
 {
     // DB Params
     private $host = 'localhost';
-    private $db_name = 'db';
-    private $username = 'root';
-    private $password = '';
+    private $db_name = 'tododb';
+    private $username = 'deploy';
+    private $password = 'HZeXyQliut';
     private $conn;
 
     // DB Connect

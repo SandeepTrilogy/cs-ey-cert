@@ -3,7 +3,7 @@ error_reporting(0);
 class Database
 {
     // DB Params
-    private $host = 'localhost';
+    private $host = 'ec2-54-91-142-129.compute-1.amazonaws.com';
     private $db_name = 'tododb';
     private $username = 'deploy';
     private $password = 'HZeXyQliut';
